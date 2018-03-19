@@ -10,3 +10,7 @@
 Layout and styling at this moment does not matter.
 
 Name your file with your name only and adding .html at the end (i.e., david.html)
+
+BONUS:
+- add at least 1 ID
+- add at least 2 classes
